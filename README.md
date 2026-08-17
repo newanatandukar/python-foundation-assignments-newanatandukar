@@ -34,3 +34,4 @@ Both `.py` files and notebooks run on the same Python installation (managed via 
 
 - [x] Day 1: Python Foundations
 - [x] Day 2: Loops & Collections
+- [x] Day 3: Functions & Modules
