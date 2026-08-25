@@ -1,0 +1,8 @@
+2026-06-25 10:00 INFO user=alice action=login
+2026-06-25 10:01 ERROR user=bob action=login msg=timeout
+2026-06-25 10:02 WARN user=alice action=upload
+2026-06-25 10:03 ERROR user=carol action=login msg=denied
+2026-06-25 10:04 INFO user=bob action=logout
+2026-06-25 10:05 INFO user=carol action=login
+2026-06-25 10:06 WARN user=dave action=upload
+2026-06-25 10:07 ERROR user=dave action=login msg=timeout

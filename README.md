@@ -36,3 +36,5 @@ Both `.py` files and notebooks run on the same Python installation (managed via 
 - [x] Day 2: Loops & Collections
 - [x] Day 3: Functions & Modules
 - [x] Day 4: File Handling, Error Handling & Logging
+- [x] Day 5-6: Advanced Python & OOP
+- [x] Day 7: Python for Data Engineering
