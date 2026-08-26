@@ -1,0 +1,482 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "Hiking Boots",
+    "category": "Footwear",
+    "price": 81.0,
+    "stock_quantity": 358,
+    "supplier": {
+      "name": "Northern Outfitting Group",
+      "country": "Canada",
+      "lead_time_days": 9
+    }
+  },
+  {
+    "product_id": "P1002",
+    "name": "Trail Runners",
+    "category": "Footwear",
+    "price": 15.26,
+    "stock_quantity": 424,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1003",
+    "name": "Camp Sandals",
+    "category": "Footwear",
+    "price": 75.87,
+    "stock_quantity": 289,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1004",
+    "name": "Insulated Boots",
+    "category": "Footwear",
+    "price": 228.54,
+    "stock_quantity": 381,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1005",
+    "name": "Rain Jacket",
+    "category": "Apparel",
+    "price": 209.87,
+    "stock_quantity": 462,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1006",
+    "name": "Fleece Pullover",
+    "category": "Apparel",
+    "price": 196.17,
+    "stock_quantity": 117,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1007",
+    "name": "Trekking Pants",
+    "category": "Apparel",
+    "price": 202.45,
+    "stock_quantity": 112,
+    "supplier": {
+      "name": "Northern Outfitting Group",
+      "country": "Canada",
+      "lead_time_days": 9
+    }
+  },
+  {
+    "product_id": "P1008",
+    "name": "Base Layer Top",
+    "category": "Apparel",
+    "price": 159.0,
+    "stock_quantity": 347,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1009",
+    "name": "Wool Socks",
+    "category": "Apparel",
+    "price": 160.77,
+    "stock_quantity": 462,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1010",
+    "name": "2-Person Tent",
+    "category": "Camping Gear",
+    "price": 84.13,
+    "stock_quantity": 225,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1011",
+    "name": "Sleeping Bag",
+    "category": "Camping Gear",
+    "price": 149.09,
+    "stock_quantity": 374,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1012",
+    "name": "Camp Stove",
+    "category": "Camping Gear",
+    "price": 31.62,
+    "stock_quantity": 151,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1013",
+    "name": "Backpack 45L",
+    "category": "Camping Gear",
+    "price": 189.39,
+    "stock_quantity": 89,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1014",
+    "name": "Trekking Poles",
+    "category": "Camping Gear",
+    "price": 41.71,
+    "stock_quantity": 276,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1015",
+    "name": "Headlamp",
+    "category": "Accessories",
+    "price": 137.39,
+    "stock_quantity": 467,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1016",
+    "name": "Water Filter",
+    "category": "Accessories",
+    "price": 209.3,
+    "stock_quantity": 131,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1017",
+    "name": "Compass",
+    "category": "Accessories",
+    "price": 242.16,
+    "stock_quantity": 151,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1018",
+    "name": "Dry Bag",
+    "category": "Accessories",
+    "price": 203.01,
+    "stock_quantity": 239,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1019",
+    "name": "First Aid Kit",
+    "category": "Accessories",
+    "price": 43.77,
+    "stock_quantity": 494,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1020",
+    "name": "GPS Tracker",
+    "category": "Electronics",
+    "price": 216.42,
+    "stock_quantity": 370,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1021",
+    "name": "Solar Charger",
+    "category": "Electronics",
+    "price": 242.13,
+    "stock_quantity": 411,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1022",
+    "name": "Action Camera",
+    "category": "Electronics",
+    "price": 97.78,
+    "stock_quantity": 404,
+    "supplier": {
+      "name": "Northern Outfitting Group",
+      "country": "Canada",
+      "lead_time_days": 9
+    }
+  },
+  {
+    "product_id": "P1023",
+    "name": "Satellite Messenger",
+    "category": "Electronics",
+    "price": 13.33,
+    "stock_quantity": 274,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1024",
+    "name": "Insulated Boots (V2)",
+    "category": "Footwear",
+    "price": 171.47,
+    "stock_quantity": 344,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1025",
+    "name": "Trekking Poles (V2)",
+    "category": "Camping Gear",
+    "price": 207.37,
+    "stock_quantity": 481,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1026",
+    "name": "2-Person Tent (V2)",
+    "category": "Camping Gear",
+    "price": 123.14,
+    "stock_quantity": 317,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1027",
+    "name": "Action Camera (V2)",
+    "category": "Electronics",
+    "price": 63.12,
+    "stock_quantity": 32,
+    "supplier": {
+      "name": "Northern Outfitting Group",
+      "country": "Canada",
+      "lead_time_days": 9
+    }
+  },
+  {
+    "product_id": "P1028",
+    "name": "Compass (V2)",
+    "category": "Accessories",
+    "price": 37.99,
+    "stock_quantity": 23,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1029",
+    "name": "Camp Sandals (V2)",
+    "category": "Footwear",
+    "price": 37.86,
+    "stock_quantity": 120,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1030",
+    "name": "Solar Charger (V2)",
+    "category": "Electronics",
+    "price": 118.86,
+    "stock_quantity": 343,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1031",
+    "name": "Satellite Messenger (V2)",
+    "category": "Electronics",
+    "price": 188.13,
+    "stock_quantity": 79,
+    "supplier": {
+      "name": "Northern Outfitting Group",
+      "country": "Canada",
+      "lead_time_days": 9
+    }
+  },
+  {
+    "product_id": "P1032",
+    "name": "Headlamp (V2)",
+    "category": "Accessories",
+    "price": 157.75,
+    "stock_quantity": 480,
+    "supplier": {
+      "name": "Trailhead Industries",
+      "country": "China",
+      "lead_time_days": 30
+    }
+  },
+  {
+    "product_id": "P1033",
+    "name": "2-Person Tent (V2)",
+    "category": "Camping Gear",
+    "price": 62.13,
+    "stock_quantity": 227,
+    "supplier": {
+      "name": "Alpine Textiles Ltd.",
+      "country": "Portugal",
+      "lead_time_days": 21
+    }
+  },
+  {
+    "product_id": "P1034",
+    "name": "Trekking Pants (V2)",
+    "category": "Apparel",
+    "price": 245.41,
+    "stock_quantity": 188,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1035",
+    "name": "Action Camera (V2)",
+    "category": "Electronics",
+    "price": 105.54,
+    "stock_quantity": 97,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1036",
+    "name": "Insulated Boots (V2)",
+    "category": "Footwear",
+    "price": 169.05,
+    "stock_quantity": 328,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1037",
+    "name": "GPS Tracker (V2)",
+    "category": "Electronics",
+    "price": 198.82,
+    "stock_quantity": 124,
+    "supplier": {
+      "name": "Summit Gear Co.",
+      "country": "Vietnam",
+      "lead_time_days": 18
+    }
+  },
+  {
+    "product_id": "P1038",
+    "name": "Wool Socks (V2)",
+    "category": "Apparel",
+    "price": 26.46,
+    "stock_quantity": 391,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  },
+  {
+    "product_id": "P1039",
+    "name": "Solar Charger (V2)",
+    "category": "Electronics",
+    "price": 61.82,
+    "stock_quantity": 445,
+    "supplier": {
+      "name": "Northern Outfitting Group",
+      "country": "Canada",
+      "lead_time_days": 9
+    }
+  },
+  {
+    "product_id": "P1040",
+    "name": "Trekking Pants (V2)",
+    "category": "Apparel",
+    "price": 199.26,
+    "stock_quantity": 305,
+    "supplier": {
+      "name": "Cascade Manufacturing",
+      "country": "USA",
+      "lead_time_days": 5
+    }
+  }
+]

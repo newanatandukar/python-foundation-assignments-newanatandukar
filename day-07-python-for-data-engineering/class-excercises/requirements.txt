@@ -1,0 +1,14 @@
+# Python for Data Engineering -- class requirements
+# Install with:  pip install -r requirements.txt
+
+pandas>=2.1
+numpy>=1.26
+openpyxl>=3.1        # lets pandas read/write .xlsx files
+requests>=2.31       # Module 2: calling HTTP APIs
+Flask>=3.0           # runs the local mock partner API used in Module 2
+SQLAlchemy>=2.0      # Module 3: talking to PostgreSQL
+psycopg2-binary>=2.9 # Module 3: PostgreSQL driver used by SQLAlchemy/psycopg2
+jupyterlab>=4.0      # to open and run the notebook
+psycopg2
+psycopg2-binary
+python-dotenv

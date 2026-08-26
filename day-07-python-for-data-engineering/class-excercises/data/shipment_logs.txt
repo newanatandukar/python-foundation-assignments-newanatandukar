@@ -1,0 +1,220 @@
+[2026-07-01 06:40:00] INFO ShipmentService - order_id=ORD-10448 customer_id=CUST-0130 carrier=UPS tracking_number=1Z904505683 status=OUT_FOR_DELIVERY origin=Vancouver,BC dest=Kathmandu,NP weight_kg=1.22
+[2026-07-01 06:52:00] INFO ShipmentService - order_id=ORD-10185 customer_id=CUST-0011 carrier=UPS tracking_number=1Z628480415 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Sydney,AU weight_kg=1.39
+[2026-07-01 07:24:00] INFO ShipmentService - order_id=ORD-10095 customer_id=CUST-0079 carrier=DHL Express tracking_number=1Z697892214 status=IN_TRANSIT origin=Toronto,ON dest=Toronto,ON weight_kg=0.76
+[2026-07-01 07:41:00] INFO ShipmentService - order_id=ORD-10489 customer_id=CUST-0007 carrier=DHL Express tracking_number=1Z287598577 status=DELIVERED origin=Melbourne,AU dest=Denver,CO weight_kg=9.97
+[2026-07-01 07:44:00] INFO ShipmentService - order_id=ORD-10096 customer_id=CUST-0018 carrier=FedEx tracking_number=1Z222373596 status=IN_TRANSIT origin=Manchester,UK dest=Bristol,UK weight_kg=7.49
+[2026-07-01 07:59:00] INFO ShipmentService - order_id=ORD-10393 customer_id=CUST-0069 carrier=USPS tracking_number=1Z942764719 status=IN_TRANSIT origin=Vancouver,BC dest=Manchester,UK weight_kg=4.39
+[2026-07-01 08:35:00] INFO ShipmentService - order_id=ORD-10556 customer_id=CUST-0056 carrier=DHL Express tracking_number=1Z841027438 status=DELIVERED origin=Denver,CO dest=Bengaluru,IN weight_kg=10.51
+[2026-07-01 08:42:00] INFO ShipmentService - order_id=ORD-10298 customer_id=CUST-0068 carrier=FedEx tracking_number=1Z590845651 status=DELIVERED origin=Berlin,DE dest=Mumbai,IN weight_kg=11.56
+[2026-07-01 08:49:00] INFO ShipmentService - order_id=ORD-10192 customer_id=CUST-0098 carrier=FedEx tracking_number=1Z145064341 status=IN_TRANSIT origin=Bengaluru,IN dest=Munich,DE weight_kg=6.19
+[2026-07-01 08:57:00] INFO ShipmentService - order_id=ORD-10570 customer_id=CUST-0064 carrier=UPS tracking_number=1Z882059080 status=OUT_FOR_DELIVERY origin=Manchester,UK dest=Denver,CO weight_kg=3.65
+[2026-07-01 09:30:00] INFO ShipmentService - order_id=ORD-10581 customer_id=CUST-0069 carrier=USPS tracking_number=1Z206616380 status=IN_TRANSIT origin=Kathmandu,NP dest=Bengaluru,IN weight_kg=2.02
+[2026-07-01 09:39:00] INFO ShipmentService - order_id=ORD-10101 customer_id=CUST-0113 carrier=FedEx tracking_number=1Z571489117 status=DELIVERED origin=Bengaluru,IN dest=Toronto,ON weight_kg=11.64
+[2026-07-01 09:40:00] INFO ShipmentService - order_id=ORD-10555 customer_id=CUST-0024 carrier=UPS tracking_number=1Z608592130 status=OUT_FOR_DELIVERY origin=Bengaluru,IN dest=Mumbai,IN weight_kg=4.23
+[2026-07-01 09:46:00] INFO ShipmentService - order_id=ORD-10508 customer_id=CUST-0131 carrier=DHL Express tracking_number=1Z910508874 status=DELIVERED origin=Manchester,UK dest=Kathmandu,NP weight_kg=5.1
+[2026-07-01 10:02:00] INFO ShipmentService - order_id=ORD-10443 customer_id=CUST-0069 carrier=UPS tracking_number=1Z668707653 status=IN_TRANSIT origin=Mumbai,IN dest=Mumbai,IN weight_kg=5.18
+[2026-07-01 10:30:00] INFO ShipmentService - order_id=ORD-10553 customer_id=CUST-0015 carrier=USPS tracking_number=1Z654217523 status=IN_TRANSIT origin=Bristol,UK dest=Berlin,DE weight_kg=9.58
+[2026-07-01 10:32:00] INFO ShipmentService - order_id=ORD-10477 customer_id=CUST-0025 carrier=USPS tracking_number=1Z110682349 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Mumbai,IN weight_kg=8.67
+[2026-07-01 10:37:00] INFO ShipmentService - order_id=ORD-10154 customer_id=CUST-0101 carrier=FedEx tracking_number=1Z531269332 status=IN_TRANSIT origin=Manchester,UK dest=Manchester,UK weight_kg=11.79
+[2026-07-01 10:41:00] INFO ShipmentService - order_id=ORD-10099 customer_id=CUST-0098 carrier=USPS tracking_number=1Z808858764 status=IN_TRANSIT origin=Mumbai,IN dest=Portland,OR weight_kg=11.09
+[2026-07-01 11:18:00] INFO ShipmentService - order_id=ORD-10488 customer_id=CUST-0056 carrier=FedEx tracking_number=1Z957995699 status=OUT_FOR_DELIVERY origin=Melbourne,AU dest=Kathmandu,NP weight_kg=7.99
+[2026-07-01 11:37:00] INFO ShipmentService - order_id=ORD-10014 customer_id=CUST-0022 carrier=USPS tracking_number=1Z852467956 status=IN_TRANSIT origin=Bristol,UK dest=Melbourne,AU weight_kg=6.73
+[2026-07-01 11:58:00] INFO ShipmentService - order_id=ORD-10313 customer_id=CUST-0142 carrier=DHL Express tracking_number=1Z400412284 status=DELIVERED origin=Portland,OR dest=Bengaluru,IN weight_kg=10.82
+[2026-07-01 12:08:00] INFO ShipmentService - order_id=ORD-10075 customer_id=CUST-0122 carrier=USPS tracking_number=1Z320260494 status=DELIVERED origin=Berlin,DE dest=Melbourne,AU weight_kg=10.67
+[2026-07-01 12:48:00] INFO ShipmentService - order_id=ORD-10535 customer_id=CUST-0128 carrier=USPS tracking_number=1Z971696978 status=OUT_FOR_DELIVERY origin=Kathmandu,NP dest=Manchester,UK weight_kg=9.42
+[2026-07-01 13:01:00] INFO ShipmentService - order_id=ORD-10040 customer_id=CUST-0005 carrier=DHL Express tracking_number=1Z677064820 status=DELIVERED origin=Austin,TX dest=Portland,OR weight_kg=4.15
+[2026-07-01 13:10:00] INFO ShipmentService - order_id=ORD-10368 customer_id=CUST-0141 carrier=DHL Express tracking_number=1Z649403202 status=OUT_FOR_DELIVERY origin=Toronto,ON dest=Austin,TX weight_kg=6.71
+[2026-07-01 13:21:00] INFO ShipmentService - order_id=ORD-10566 customer_id=CUST-0059 carrier=FedEx tracking_number=1Z679748258 status=IN_TRANSIT origin=Portland,OR dest=Mumbai,IN weight_kg=7.19
+[2026-07-01 13:41:00] INFO ShipmentService - order_id=ORD-10281 customer_id=CUST-0017 carrier=USPS tracking_number=1Z885964167 status=IN_TRANSIT origin=Munich,DE dest=Austin,TX weight_kg=0.91
+[2026-07-01 14:14:00] INFO ShipmentService - order_id=ORD-10593 customer_id=CUST-0102 carrier=DHL Express tracking_number=1Z912350050 status=IN_TRANSIT origin=Austin,TX dest=Portland,OR weight_kg=7.88
+[2026-07-01 14:34:00] WARN ShipmentService - order_id=ORD-10165 customer_id=CUST-0053 carrier=FedEx tracking_number=1Z353507570 status=DELAYED origin=Berlin,DE dest=Manchester,UK weight_kg=9.7 reason="address correction needed"
+[2026-07-01 15:09:00] INFO ShipmentService - order_id=ORD-10547 customer_id=CUST-0111 carrier=UPS tracking_number=1Z405517657 status=DELIVERED origin=Manchester,UK dest=Vancouver,BC weight_kg=8.07
+[2026-07-01 15:46:00] INFO ShipmentService - order_id=ORD-10102 customer_id=CUST-0148 carrier=UPS tracking_number=1Z657987812 status=IN_TRANSIT origin=Kathmandu,NP dest=Bristol,UK weight_kg=8.9
+[2026-07-01 16:20:00] INFO ShipmentService - order_id=ORD-10052 customer_id=CUST-0033 carrier=UPS tracking_number=1Z487908062 status=IN_TRANSIT origin=Bengaluru,IN dest=Mumbai,IN weight_kg=5.56
+[2026-07-01 16:48:00] INFO ShipmentService - order_id=ORD-10156 customer_id=CUST-0092 carrier=USPS tracking_number=1Z166779947 status=IN_TRANSIT origin=Austin,TX dest=Austin,TX weight_kg=5.21
+[2026-07-01 17:02:00] INFO ShipmentService - order_id=ORD-10419 customer_id=CUST-0106 carrier=USPS tracking_number=1Z826732562 status=OUT_FOR_DELIVERY origin=Austin,TX dest=Manchester,UK weight_kg=6.41
+[2026-07-01 17:36:00] INFO ShipmentService - order_id=ORD-10383 customer_id=CUST-0097 carrier=USPS tracking_number=1Z727391402 status=OUT_FOR_DELIVERY origin=Bengaluru,IN dest=Vancouver,BC weight_kg=6.09
+[2026-07-01 18:05:00] INFO ShipmentService - order_id=ORD-10098 customer_id=CUST-0136 carrier=USPS tracking_number=1Z984561220 status=OUT_FOR_DELIVERY origin=Kathmandu,NP dest=Bristol,UK weight_kg=2.12
+[2026-07-01 18:37:00] INFO ShipmentService - order_id=ORD-10578 customer_id=CUST-0073 carrier=USPS tracking_number=1Z651028717 status=IN_TRANSIT origin=Denver,CO dest=Kathmandu,NP weight_kg=10.39
+[2026-07-01 18:51:00] INFO ShipmentService - order_id=ORD-10585 customer_id=CUST-0095 carrier=USPS tracking_number=1Z901544309 status=OUT_FOR_DELIVERY origin=Berlin,DE dest=Portland,OR weight_kg=2.05
+[2026-07-01 18:59:00] INFO ShipmentService - order_id=ORD-10374 customer_id=CUST-0031 carrier=USPS tracking_number=1Z496839906 status=IN_TRANSIT origin=Austin,TX dest=Austin,TX weight_kg=6.95
+[2026-07-01 19:09:00] INFO ShipmentService - order_id=ORD-10092 customer_id=CUST-0138 carrier=FedEx tracking_number=1Z502073105 status=OUT_FOR_DELIVERY origin=Manchester,UK dest=Vancouver,BC weight_kg=3.78
+[2026-07-01 19:19:00] INFO ShipmentService - order_id=ORD-10234 customer_id=CUST-0121 carrier=UPS tracking_number=1Z552858103 status=DELIVERED origin=Mumbai,IN dest=Sydney,AU weight_kg=0.77
+[2026-07-01 19:38:00] INFO ShipmentService - order_id=ORD-10401 customer_id=CUST-0052 carrier=UPS tracking_number=1Z894204228 status=IN_TRANSIT origin=Denver,CO dest=Bengaluru,IN weight_kg=5.97
+[2026-07-01 20:01:00] INFO ShipmentService - order_id=ORD-10209 customer_id=CUST-0123 carrier=FedEx tracking_number=1Z548367904 status=IN_TRANSIT origin=Bengaluru,IN dest=Portland,OR weight_kg=5.88
+[2026-07-01 20:30:00] INFO ShipmentService - order_id=ORD-10267 customer_id=CUST-0056 carrier=DHL Express tracking_number=1Z610271691 status=DELIVERED origin=Mumbai,IN dest=Bristol,UK weight_kg=10.05
+[2026-07-01 20:39:00] INFO ShipmentService - order_id=ORD-10108 customer_id=CUST-0063 carrier=UPS tracking_number=1Z594926438 status=DELIVERED origin=Munich,DE dest=Melbourne,AU weight_kg=9.19
+[2026-07-01 20:49:00] INFO ShipmentService - order_id=ORD-10100 customer_id=CUST-0005 carrier=DHL Express tracking_number=1Z770842137 status=OUT_FOR_DELIVERY origin=Austin,TX dest=Mumbai,IN weight_kg=8.04
+[2026-07-01 21:04:00] INFO ShipmentService - order_id=ORD-10045 customer_id=CUST-0091 carrier=USPS tracking_number=1Z149198538 status=DELIVERED origin=Manchester,UK dest=Munich,DE weight_kg=11.51
+[2026-07-01 21:22:00] INFO ShipmentService - order_id=ORD-10405 customer_id=CUST-0002 carrier=FedEx tracking_number=1Z859359486 status=DELIVERED origin=Bengaluru,IN dest=Denver,CO weight_kg=0.49
+[2026-07-01 21:42:00] INFO ShipmentService - order_id=ORD-10413 customer_id=CUST-0107 carrier=FedEx tracking_number=1Z191431302 status=DELIVERED origin=Melbourne,AU dest=Munich,DE weight_kg=2.47
+[2026-07-01 22:19:00] INFO ShipmentService - order_id=ORD-10342 customer_id=CUST-0120 carrier=FedEx tracking_number=1Z303362264 status=OUT_FOR_DELIVERY origin=Sydney,AU dest=Munich,DE weight_kg=9.06
+[2026-07-01 22:21:00] INFO ShipmentService - order_id=ORD-10173 customer_id=CUST-0070 carrier=FedEx tracking_number=1Z292998003 status=IN_TRANSIT origin=Melbourne,AU dest=Munich,DE weight_kg=11.56
+[2026-07-01 22:35:00] INFO ShipmentService - order_id=ORD-10017 customer_id=CUST-0002 carrier=UPS tracking_number=1Z722290025 status=DELIVERED origin=Bengaluru,IN dest=Kathmandu,NP weight_kg=5.44
+[2026-07-01 23:14:00] WARN ShipmentService - order_id=ORD-10516 customer_id=CUST-0082 carrier=DHL Express tracking_number=1Z148300820 status=DELAYED origin=Bristol,UK dest=Sydney,AU weight_kg=6.0 reason="weather delay"
+[2026-07-01 23:42:00] INFO ShipmentService - order_id=ORD-10022 customer_id=CUST-0066 carrier=UPS tracking_number=1Z666830194 status=IN_TRANSIT origin=Bristol,UK dest=Portland,OR weight_kg=3.95
+[2026-07-01 23:50:00] INFO ShipmentService - order_id=ORD-10577 customer_id=CUST-0114 carrier=FedEx tracking_number=1Z406394085 status=IN_TRANSIT origin=Munich,DE dest=Denver,CO weight_kg=1.9
+[2026-07-01 23:56:00] INFO ShipmentService - order_id=ORD-10172 customer_id=CUST-0133 carrier=UPS tracking_number=1Z828650400 status=DELIVERED origin=Vancouver,BC dest=Bristol,UK weight_kg=2.2
+[2026-07-02 00:17:00] INFO ShipmentService - order_id=ORD-10001 customer_id=CUST-0001 carrier=UPS tracking_number=1Z162815808 status=IN_TRANSIT origin=Portland,OR dest=Kathmandu,NP weight_kg=3.72
+[2026-07-02 00:27:00] INFO ShipmentService - order_id=ORD-10027 customer_id=CUST-0045 carrier=USPS tracking_number=1Z503204182 status=DELIVERED origin=Manchester,UK dest=Vancouver,BC weight_kg=11.31
+[2026-07-02 00:31:00] INFO ShipmentService - order_id=ORD-10378 customer_id=CUST-0051 carrier=UPS tracking_number=1Z741028831 status=OUT_FOR_DELIVERY origin=Toronto,ON dest=Mumbai,IN weight_kg=7.12
+[2026-07-02 01:04:00] INFO ShipmentService - order_id=ORD-10558 customer_id=CUST-0009 carrier=USPS tracking_number=1Z165103088 status=OUT_FOR_DELIVERY origin=Austin,TX dest=Vancouver,BC weight_kg=3.96
+[2026-07-02 01:09:00] INFO ShipmentService - order_id=ORD-10076 customer_id=CUST-0098 carrier=USPS tracking_number=1Z780259788 status=DELIVERED origin=Portland,OR dest=Bristol,UK weight_kg=2.96
+[2026-07-02 01:27:00] INFO ShipmentService - order_id=ORD-10493 customer_id=CUST-0139 carrier=FedEx tracking_number=1Z695612588 status=IN_TRANSIT origin=Toronto,ON dest=Mumbai,IN weight_kg=7.89
+[2026-07-02 02:04:00] INFO ShipmentService - order_id=ORD-10598 customer_id=CUST-0016 carrier=USPS tracking_number=1Z782683973 status=DELIVERED origin=Berlin,DE dest=Austin,TX weight_kg=6.11
+[2026-07-02 02:14:00] WARN ShipmentService - order_id=ORD-10302 customer_id=CUST-0041 carrier=DHL Express tracking_number=1Z939691516 status=DELAYED origin=Munich,DE dest=Denver,CO weight_kg=3.09 reason="address correction needed"
+[2026-07-02 02:43:00] INFO ShipmentService - order_id=ORD-10432 customer_id=CUST-0062 carrier=FedEx tracking_number=1Z598916337 status=DELIVERED origin=Portland,OR dest=Bengaluru,IN weight_kg=11.54
+[2026-07-02 02:54:00] INFO ShipmentService - order_id=ORD-10212 customer_id=CUST-0059 carrier=FedEx tracking_number=1Z393456795 status=DELIVERED origin=Portland,OR dest=Berlin,DE weight_kg=7.25
+[2026-07-02 03:19:00] INFO ShipmentService - order_id=ORD-10520 customer_id=CUST-0135 carrier=DHL Express tracking_number=1Z328443009 status=OUT_FOR_DELIVERY origin=Bengaluru,IN dest=Melbourne,AU weight_kg=7.1
+[2026-07-02 03:22:00] INFO ShipmentService - order_id=ORD-10503 customer_id=CUST-0139 carrier=UPS tracking_number=1Z704604243 status=IN_TRANSIT origin=Kathmandu,NP dest=Munich,DE weight_kg=1.03
+[2026-07-02 03:30:00] INFO ShipmentService - order_id=ORD-10033 customer_id=CUST-0097 carrier=UPS tracking_number=1Z400066062 status=IN_TRANSIT origin=Kathmandu,NP dest=Munich,DE weight_kg=10.56
+[2026-07-02 04:03:00] INFO ShipmentService - order_id=ORD-10279 customer_id=CUST-0030 carrier=DHL Express tracking_number=1Z782008471 status=DELIVERED origin=Melbourne,AU dest=Manchester,UK weight_kg=3.28
+[2026-07-02 04:32:00] INFO ShipmentService - order_id=ORD-10262 customer_id=CUST-0031 carrier=DHL Express tracking_number=1Z445356445 status=OUT_FOR_DELIVERY origin=Toronto,ON dest=Melbourne,AU weight_kg=4.23
+[2026-07-02 05:11:00] INFO ShipmentService - order_id=ORD-10358 customer_id=CUST-0126 carrier=DHL Express tracking_number=1Z243586927 status=IN_TRANSIT origin=Portland,OR dest=Kathmandu,NP weight_kg=7.83
+[2026-07-02 05:42:00] INFO ShipmentService - order_id=ORD-10055 customer_id=CUST-0032 carrier=FedEx tracking_number=1Z286332886 status=DELIVERED origin=Portland,OR dest=Melbourne,AU weight_kg=5.08
+[2026-07-02 06:14:00] INFO ShipmentService - order_id=ORD-10233 customer_id=CUST-0023 carrier=USPS tracking_number=1Z945362558 status=DELIVERED origin=Munich,DE dest=Austin,TX weight_kg=10.55
+[2026-07-02 06:49:00] INFO ShipmentService - order_id=ORD-10464 customer_id=CUST-0146 carrier=FedEx tracking_number=1Z821139052 status=IN_TRANSIT origin=Bengaluru,IN dest=Bengaluru,IN weight_kg=5.45
+[2026-07-02 07:14:00] WARN ShipmentService - order_id=ORD-10148 customer_id=CUST-0009 carrier=DHL Express tracking_number=1Z924597047 status=DELAYED origin=Bristol,UK dest=Denver,CO weight_kg=9.78 reason="customs hold"
+[2026-07-02 07:44:00] INFO ShipmentService - order_id=ORD-10409 customer_id=CUST-0110 carrier=DHL Express tracking_number=1Z110053768 status=IN_TRANSIT origin=Toronto,ON dest=Berlin,DE weight_kg=2.81
+[2026-07-02 08:02:00] INFO ShipmentService - order_id=ORD-10324 customer_id=CUST-0074 carrier=DHL Express tracking_number=1Z976474860 status=IN_TRANSIT origin=Toronto,ON dest=Austin,TX weight_kg=7.44
+[2026-07-02 08:17:00] WARN ShipmentService - order_id=ORD-10382 customer_id=CUST-0121 carrier=UPS tracking_number=1Z139509449 status=DELAYED origin=Berlin,DE dest=Manchester,UK weight_kg=3.51 reason="address correction needed"
+[2026-07-02 08:56:00] INFO ShipmentService - order_id=ORD-10030 customer_id=CUST-0144 carrier=UPS tracking_number=1Z981674615 status=IN_TRANSIT origin=Portland,OR dest=Toronto,ON weight_kg=7.73
+[2026-07-02 09:14:00] INFO ShipmentService - order_id=ORD-10062 customer_id=CUST-0149 carrier=USPS tracking_number=1Z308059226 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Munich,DE weight_kg=7.99
+[2026-07-02 09:53:00] INFO ShipmentService - order_id=ORD-10124 customer_id=CUST-0064 carrier=UPS tracking_number=1Z237703513 status=IN_TRANSIT origin=Austin,TX dest=Sydney,AU weight_kg=9.0
+[2026-07-02 10:30:00] INFO ShipmentService - order_id=ORD-10597 customer_id=CUST-0142 carrier=UPS tracking_number=1Z939937450 status=DELIVERED origin=Munich,DE dest=Kathmandu,NP weight_kg=3.44
+[2026-07-02 10:32:00] INFO ShipmentService - order_id=ORD-10135 customer_id=CUST-0022 carrier=DHL Express tracking_number=1Z587399464 status=OUT_FOR_DELIVERY origin=Melbourne,AU dest=Munich,DE weight_kg=0.22
+[2026-07-02 10:36:00] INFO ShipmentService - order_id=ORD-10121 customer_id=CUST-0077 carrier=DHL Express tracking_number=1Z536879666 status=DELIVERED origin=Bristol,UK dest=Bengaluru,IN weight_kg=3.43
+[2026-07-02 11:06:00] INFO ShipmentService - order_id=ORD-10077 customer_id=CUST-0053 carrier=USPS tracking_number=1Z914993363 status=DELIVERED origin=Manchester,UK dest=Munich,DE weight_kg=0.71
+[2026-07-02 11:10:00] INFO ShipmentService - order_id=ORD-10200 customer_id=CUST-0144 carrier=DHL Express tracking_number=1Z581961364 status=IN_TRANSIT origin=Bristol,UK dest=Munich,DE weight_kg=3.93
+[2026-07-02 11:32:00] INFO ShipmentService - order_id=ORD-10032 customer_id=CUST-0020 carrier=FedEx tracking_number=1Z127242908 status=IN_TRANSIT origin=Sydney,AU dest=Mumbai,IN weight_kg=11.89
+[2026-07-02 12:00:00] INFO ShipmentService - order_id=ORD-10025 customer_id=CUST-0024 carrier=FedEx tracking_number=1Z276610744 status=IN_TRANSIT origin=Toronto,ON dest=Toronto,ON weight_kg=4.08
+[2026-07-02 12:07:00] INFO ShipmentService - order_id=ORD-10088 customer_id=CUST-0076 carrier=FedEx tracking_number=1Z967646831 status=DELIVERED origin=Berlin,DE dest=Bristol,UK weight_kg=0.48
+[2026-07-02 12:29:00] INFO ShipmentService - order_id=ORD-10336 customer_id=CUST-0115 carrier=DHL Express tracking_number=1Z608498927 status=IN_TRANSIT origin=Toronto,ON dest=Austin,TX weight_kg=3.01
+[2026-07-02 12:33:00] INFO ShipmentService - order_id=ORD-10334 customer_id=CUST-0122 carrier=DHL Express tracking_number=1Z354201569 status=DELIVERED origin=Munich,DE dest=Mumbai,IN weight_kg=11.33
+[2026-07-02 13:13:00] INFO ShipmentService - order_id=ORD-10041 customer_id=CUST-0062 carrier=USPS tracking_number=1Z771463117 status=IN_TRANSIT origin=Mumbai,IN dest=Austin,TX weight_kg=5.47
+[2026-07-02 13:17:00] INFO ShipmentService - order_id=ORD-10111 customer_id=CUST-0040 carrier=FedEx tracking_number=1Z844493568 status=IN_TRANSIT origin=Bristol,UK dest=Manchester,UK weight_kg=0.97
+[2026-07-02 13:46:00] INFO ShipmentService - order_id=ORD-10408 customer_id=CUST-0147 carrier=FedEx tracking_number=1Z772361249 status=IN_TRANSIT origin=Vancouver,BC dest=Sydney,AU weight_kg=5.3
+[2026-07-02 13:50:00] INFO ShipmentService - order_id=ORD-10333 customer_id=CUST-0137 carrier=FedEx tracking_number=1Z509584709 status=DELIVERED origin=Vancouver,BC dest=Bengaluru,IN weight_kg=4.94
+[2026-07-02 14:17:00] INFO ShipmentService - order_id=ORD-10244 customer_id=CUST-0003 carrier=UPS tracking_number=1Z945544638 status=IN_TRANSIT origin=Bengaluru,IN dest=Sydney,AU weight_kg=7.98
+[2026-07-02 14:42:00] INFO ShipmentService - order_id=ORD-10594 customer_id=CUST-0038 carrier=USPS tracking_number=1Z765946168 status=IN_TRANSIT origin=Mumbai,IN dest=Bristol,UK weight_kg=7.51
+[2026-07-02 14:44:00] INFO ShipmentService - order_id=ORD-10125 customer_id=CUST-0079 carrier=USPS tracking_number=1Z731159790 status=IN_TRANSIT origin=Munich,DE dest=Manchester,UK weight_kg=2.47
+[2026-07-02 15:23:00] INFO ShipmentService - order_id=ORD-10323 customer_id=CUST-0098 carrier=FedEx tracking_number=1Z307892029 status=IN_TRANSIT origin=Sydney,AU dest=Mumbai,IN weight_kg=10.87
+[2026-07-02 15:56:00] INFO ShipmentService - order_id=ORD-10494 customer_id=CUST-0091 carrier=DHL Express tracking_number=1Z616898564 status=OUT_FOR_DELIVERY origin=Manchester,UK dest=Bristol,UK weight_kg=8.75
+[2026-07-02 16:12:00] INFO ShipmentService - order_id=ORD-10592 customer_id=CUST-0044 carrier=UPS tracking_number=1Z164951915 status=OUT_FOR_DELIVERY origin=Mumbai,IN dest=Portland,OR weight_kg=1.71
+[2026-07-02 16:45:00] INFO ShipmentService - order_id=ORD-10306 customer_id=CUST-0131 carrier=DHL Express tracking_number=1Z681048625 status=IN_TRANSIT origin=Vancouver,BC dest=Sydney,AU weight_kg=9.35
+[2026-07-02 17:05:00] INFO ShipmentService - order_id=ORD-10538 customer_id=CUST-0126 carrier=DHL Express tracking_number=1Z108677810 status=DELIVERED origin=Vancouver,BC dest=Manchester,UK weight_kg=6.31
+[2026-07-02 17:15:00] INFO ShipmentService - order_id=ORD-10139 customer_id=CUST-0018 carrier=FedEx tracking_number=1Z979591893 status=DELIVERED origin=Toronto,ON dest=Munich,DE weight_kg=10.06
+[2026-07-02 17:43:00] INFO ShipmentService - order_id=ORD-10210 customer_id=CUST-0126 carrier=DHL Express tracking_number=1Z787790466 status=DELIVERED origin=Toronto,ON dest=Toronto,ON weight_kg=10.92
+[2026-07-02 18:05:00] INFO ShipmentService - order_id=ORD-10007 customer_id=CUST-0106 carrier=UPS tracking_number=1Z846016035 status=OUT_FOR_DELIVERY origin=Melbourne,AU dest=Berlin,DE weight_kg=8.36
+[2026-07-02 18:27:00] INFO ShipmentService - order_id=ORD-10060 customer_id=CUST-0129 carrier=DHL Express tracking_number=1Z549570641 status=IN_TRANSIT origin=Sydney,AU dest=Vancouver,BC weight_kg=4.08
+[2026-07-02 18:30:00] INFO ShipmentService - order_id=ORD-10207 customer_id=CUST-0043 carrier=USPS tracking_number=1Z785870900 status=IN_TRANSIT origin=Toronto,ON dest=Portland,OR weight_kg=2.83
+[2026-07-02 19:10:00] INFO ShipmentService - order_id=ORD-10237 customer_id=CUST-0148 carrier=UPS tracking_number=1Z888755899 status=DELIVERED origin=Toronto,ON dest=Berlin,DE weight_kg=9.27
+[2026-07-02 19:35:00] INFO ShipmentService - order_id=ORD-10510 customer_id=CUST-0107 carrier=UPS tracking_number=1Z987001282 status=IN_TRANSIT origin=Bristol,UK dest=Denver,CO weight_kg=11.88
+[2026-07-02 19:40:00] INFO ShipmentService - order_id=ORD-10471 customer_id=CUST-0030 carrier=DHL Express tracking_number=1Z223683564 status=OUT_FOR_DELIVERY origin=Portland,OR dest=Munich,DE weight_kg=1.88
+[2026-07-02 20:18:00] INFO ShipmentService - order_id=ORD-10024 customer_id=CUST-0078 carrier=DHL Express tracking_number=1Z313806556 status=IN_TRANSIT origin=Portland,OR dest=Portland,OR weight_kg=2.53
+[2026-07-02 20:35:00] INFO ShipmentService - order_id=ORD-10548 customer_id=CUST-0133 carrier=UPS tracking_number=1Z695395166 status=IN_TRANSIT origin=Manchester,UK dest=Bengaluru,IN weight_kg=3.1
+[2026-07-02 20:47:00] INFO ShipmentService - order_id=ORD-10433 customer_id=CUST-0088 carrier=DHL Express tracking_number=1Z992758059 status=IN_TRANSIT origin=Austin,TX dest=Portland,OR weight_kg=8.19
+[2026-07-02 20:55:00] INFO ShipmentService - order_id=ORD-10427 customer_id=CUST-0092 carrier=DHL Express tracking_number=1Z589844971 status=DELIVERED origin=Toronto,ON dest=Vancouver,BC weight_kg=3.03
+[2026-07-02 21:06:00] WARN ShipmentService - order_id=ORD-10005 customer_id=CUST-0038 carrier=USPS tracking_number=1Z227231238 status=DELAYED origin=Kathmandu,NP dest=Austin,TX weight_kg=1.9 reason="customs hold"
+[2026-07-02 21:19:00] WARN ShipmentService - order_id=ORD-10026 customer_id=CUST-0049 carrier=USPS tracking_number=1Z441397938 status=DELAYED origin=Kathmandu,NP dest=Manchester,UK weight_kg=7.27 reason="customs hold"
+[2026-07-02 21:22:00] INFO ShipmentService - order_id=ORD-10310 customer_id=CUST-0026 carrier=UPS tracking_number=1Z415876317 status=IN_TRANSIT origin=Bengaluru,IN dest=Munich,DE weight_kg=9.52
+[2026-07-02 21:26:00] INFO ShipmentService - order_id=ORD-10082 customer_id=CUST-0070 carrier=DHL Express tracking_number=1Z645750195 status=DELIVERED origin=Bengaluru,IN dest=Denver,CO weight_kg=11.63
+[2026-07-02 21:40:00] INFO ShipmentService - order_id=ORD-10534 customer_id=CUST-0072 carrier=FedEx tracking_number=1Z949326796 status=IN_TRANSIT origin=Mumbai,IN dest=Berlin,DE weight_kg=8.03
+[2026-07-02 22:13:00] INFO ShipmentService - order_id=ORD-10167 customer_id=CUST-0108 carrier=USPS tracking_number=1Z906526424 status=OUT_FOR_DELIVERY origin=Mumbai,IN dest=Melbourne,AU weight_kg=6.21
+[2026-07-02 22:43:00] INFO ShipmentService - order_id=ORD-10085 customer_id=CUST-0137 carrier=UPS tracking_number=1Z501449217 status=OUT_FOR_DELIVERY origin=Manchester,UK dest=Kathmandu,NP weight_kg=6.4
+[2026-07-02 23:15:00] INFO ShipmentService - order_id=ORD-10145 customer_id=CUST-0099 carrier=USPS tracking_number=1Z530512565 status=DELIVERED origin=Vancouver,BC dest=Sydney,AU weight_kg=7.73
+[2026-07-02 23:18:00] INFO ShipmentService - order_id=ORD-10375 customer_id=CUST-0145 carrier=UPS tracking_number=1Z585417273 status=IN_TRANSIT origin=Toronto,ON dest=Toronto,ON weight_kg=10.39
+[2026-07-02 23:38:00] INFO ShipmentService - order_id=ORD-10397 customer_id=CUST-0138 carrier=USPS tracking_number=1Z268802235 status=IN_TRANSIT origin=Bristol,UK dest=Sydney,AU weight_kg=11.24
+[2026-07-03 00:14:00] INFO ShipmentService - order_id=ORD-10038 customer_id=CUST-0014 carrier=FedEx tracking_number=1Z190224542 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Mumbai,IN weight_kg=3.68
+[2026-07-03 00:29:00] INFO ShipmentService - order_id=ORD-10308 customer_id=CUST-0031 carrier=FedEx tracking_number=1Z766928774 status=OUT_FOR_DELIVERY origin=Berlin,DE dest=Munich,DE weight_kg=4.17
+[2026-07-03 00:57:00] INFO ShipmentService - order_id=ORD-10228 customer_id=CUST-0131 carrier=USPS tracking_number=1Z634232794 status=IN_TRANSIT origin=Manchester,UK dest=Mumbai,IN weight_kg=3.94
+[2026-07-03 01:09:00] WARN ShipmentService - order_id=ORD-10034 customer_id=CUST-0114 carrier=USPS tracking_number=1Z792944501 status=DELAYED origin=Toronto,ON dest=Vancouver,BC weight_kg=1.1 reason="weather delay"
+[2026-07-03 01:42:00] INFO ShipmentService - order_id=ORD-10012 customer_id=CUST-0008 carrier=FedEx tracking_number=1Z344535679 status=IN_TRANSIT origin=Mumbai,IN dest=Vancouver,BC weight_kg=1.36
+[2026-07-03 01:45:00] INFO ShipmentService - order_id=ORD-10537 customer_id=CUST-0111 carrier=UPS tracking_number=1Z824890971 status=IN_TRANSIT origin=Manchester,UK dest=Toronto,ON weight_kg=4.09
+[2026-07-03 02:03:00] INFO ShipmentService - order_id=ORD-10143 customer_id=CUST-0100 carrier=UPS tracking_number=1Z248031551 status=DELIVERED origin=Kathmandu,NP dest=Sydney,AU weight_kg=11.98
+[2026-07-03 02:38:00] INFO ShipmentService - order_id=ORD-10426 customer_id=CUST-0028 carrier=DHL Express tracking_number=1Z421557922 status=IN_TRANSIT origin=Portland,OR dest=Mumbai,IN weight_kg=3.53
+[2026-07-03 03:04:00] INFO ShipmentService - order_id=ORD-10552 customer_id=CUST-0070 carrier=USPS tracking_number=1Z913688073 status=OUT_FOR_DELIVERY origin=Bengaluru,IN dest=Sydney,AU weight_kg=7.93
+[2026-07-03 03:37:00] INFO ShipmentService - order_id=ORD-10157 customer_id=CUST-0034 carrier=UPS tracking_number=1Z344360546 status=DELIVERED origin=Bengaluru,IN dest=Bristol,UK weight_kg=2.88
+[2026-07-03 04:08:00] INFO ShipmentService - order_id=ORD-10149 customer_id=CUST-0030 carrier=UPS tracking_number=1Z943933854 status=OUT_FOR_DELIVERY origin=Munich,DE dest=Sydney,AU weight_kg=6.72
+[2026-07-03 04:38:00] INFO ShipmentService - order_id=ORD-10479 customer_id=CUST-0054 carrier=DHL Express tracking_number=1Z436161542 status=OUT_FOR_DELIVERY origin=Mumbai,IN dest=Austin,TX weight_kg=10.18
+[2026-07-03 05:05:00] INFO ShipmentService - order_id=ORD-10396 customer_id=CUST-0084 carrier=UPS tracking_number=1Z699627706 status=IN_TRANSIT origin=Berlin,DE dest=Berlin,DE weight_kg=0.56
+[2026-07-03 05:14:00] INFO ShipmentService - order_id=ORD-10441 customer_id=CUST-0035 carrier=DHL Express tracking_number=1Z636656386 status=DELIVERED origin=Kathmandu,NP dest=Portland,OR weight_kg=9.76
+[2026-07-03 05:36:00] INFO ShipmentService - order_id=ORD-10511 customer_id=CUST-0097 carrier=UPS tracking_number=1Z836332204 status=DELIVERED origin=Bristol,UK dest=Bristol,UK weight_kg=9.08
+[2026-07-03 06:11:00] INFO ShipmentService - order_id=ORD-10449 customer_id=CUST-0039 carrier=DHL Express tracking_number=1Z124953585 status=IN_TRANSIT origin=Manchester,UK dest=Sydney,AU weight_kg=6.9
+[2026-07-03 06:20:00] WARN ShipmentService - order_id=ORD-10379 customer_id=CUST-0029 carrier=UPS tracking_number=1Z776284800 status=DELAYED origin=Manchester,UK dest=Sydney,AU weight_kg=9.63 reason="address correction needed"
+[2026-07-03 06:46:00] INFO ShipmentService - order_id=ORD-10526 customer_id=CUST-0130 carrier=USPS tracking_number=1Z168407281 status=IN_TRANSIT origin=Toronto,ON dest=Bristol,UK weight_kg=6.51
+[2026-07-03 06:53:00] INFO ShipmentService - order_id=ORD-10193 customer_id=CUST-0057 carrier=DHL Express tracking_number=1Z786124569 status=IN_TRANSIT origin=Sydney,AU dest=Berlin,DE weight_kg=10.76
+[2026-07-03 07:00:00] INFO ShipmentService - order_id=ORD-10437 customer_id=CUST-0112 carrier=UPS tracking_number=1Z839834472 status=IN_TRANSIT origin=Portland,OR dest=Bengaluru,IN weight_kg=7.32
+[2026-07-03 07:13:00] INFO ShipmentService - order_id=ORD-10351 customer_id=CUST-0098 carrier=FedEx tracking_number=1Z321075169 status=DELIVERED origin=Bristol,UK dest=Vancouver,BC weight_kg=2.95
+[2026-07-03 07:18:00] INFO ShipmentService - order_id=ORD-10225 customer_id=CUST-0042 carrier=USPS tracking_number=1Z656769159 status=IN_TRANSIT origin=Portland,OR dest=Manchester,UK weight_kg=0.33
+[2026-07-03 07:45:00] INFO ShipmentService - order_id=ORD-10273 customer_id=CUST-0095 carrier=USPS tracking_number=1Z238660514 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Austin,TX weight_kg=6.53
+[2026-07-03 07:50:00] INFO ShipmentService - order_id=ORD-10144 customer_id=CUST-0022 carrier=USPS tracking_number=1Z239513727 status=IN_TRANSIT origin=Bengaluru,IN dest=Toronto,ON weight_kg=10.47
+[2026-07-03 08:21:00] INFO ShipmentService - order_id=ORD-10263 customer_id=CUST-0032 carrier=UPS tracking_number=1Z433196834 status=OUT_FOR_DELIVERY origin=Sydney,AU dest=Sydney,AU weight_kg=7.13
+[2026-07-03 08:51:00] INFO ShipmentService - order_id=ORD-10197 customer_id=CUST-0060 carrier=DHL Express tracking_number=1Z253214356 status=DELIVERED origin=Toronto,ON dest=Portland,OR weight_kg=5.46
+[2026-07-03 09:30:00] INFO ShipmentService - order_id=ORD-10282 customer_id=CUST-0019 carrier=UPS tracking_number=1Z711205057 status=OUT_FOR_DELIVERY origin=Munich,DE dest=Manchester,UK weight_kg=10.58
+[2026-07-03 10:07:00] WARN ShipmentService - order_id=ORD-10205 customer_id=CUST-0058 carrier=FedEx tracking_number=1Z409142921 status=DELAYED origin=Kathmandu,NP dest=Austin,TX weight_kg=7.83 reason="weather delay"
+[2026-07-03 10:27:00] INFO ShipmentService - order_id=ORD-10321 customer_id=CUST-0076 carrier=USPS tracking_number=1Z969714515 status=OUT_FOR_DELIVERY origin=Sydney,AU dest=Bengaluru,IN weight_kg=10.23
+[2026-07-03 10:39:00] INFO ShipmentService - order_id=ORD-10245 customer_id=CUST-0031 carrier=USPS tracking_number=1Z807681800 status=OUT_FOR_DELIVERY origin=Berlin,DE dest=Bristol,UK weight_kg=2.36
+[2026-07-03 11:05:00] INFO ShipmentService - order_id=ORD-10109 customer_id=CUST-0067 carrier=FedEx tracking_number=1Z269578434 status=DELIVERED origin=Toronto,ON dest=Bengaluru,IN weight_kg=3.43
+[2026-07-03 11:24:00] WARN ShipmentService - order_id=ORD-10260 customer_id=CUST-0094 carrier=FedEx tracking_number=1Z875681172 status=DELAYED origin=Kathmandu,NP dest=Kathmandu,NP weight_kg=10.85 reason="weather delay"
+[2026-07-03 12:00:00] INFO ShipmentService - order_id=ORD-10447 customer_id=CUST-0016 carrier=FedEx tracking_number=1Z911101211 status=DELIVERED origin=Manchester,UK dest=Austin,TX weight_kg=1.44
+[2026-07-03 12:21:00] INFO ShipmentService - order_id=ORD-10097 customer_id=CUST-0115 carrier=USPS tracking_number=1Z371406088 status=IN_TRANSIT origin=Berlin,DE dest=Denver,CO weight_kg=2.65
+[2026-07-03 12:23:00] INFO ShipmentService - order_id=ORD-10331 customer_id=CUST-0103 carrier=FedEx tracking_number=1Z825443666 status=IN_TRANSIT origin=Melbourne,AU dest=Kathmandu,NP weight_kg=9.05
+[2026-07-03 12:49:00] INFO ShipmentService - order_id=ORD-10524 customer_id=CUST-0017 carrier=UPS tracking_number=1Z111529159 status=DELIVERED origin=Bristol,UK dest=Portland,OR weight_kg=3.16
+[2026-07-03 12:58:00] INFO ShipmentService - order_id=ORD-10536 customer_id=CUST-0127 carrier=DHL Express tracking_number=1Z598479857 status=IN_TRANSIT origin=Melbourne,AU dest=Kathmandu,NP weight_kg=5.92
+[2026-07-03 13:34:00] INFO ShipmentService - order_id=ORD-10159 customer_id=CUST-0024 carrier=UPS tracking_number=1Z250598472 status=IN_TRANSIT origin=Kathmandu,NP dest=Berlin,DE weight_kg=5.76
+[2026-07-03 13:45:00] INFO ShipmentService - order_id=ORD-10335 customer_id=CUST-0090 carrier=UPS tracking_number=1Z751749006 status=IN_TRANSIT origin=Bengaluru,IN dest=Portland,OR weight_kg=1.39
+[2026-07-03 14:20:00] INFO ShipmentService - order_id=ORD-10514 customer_id=CUST-0126 carrier=USPS tracking_number=1Z820901832 status=DELIVERED origin=Denver,CO dest=Austin,TX weight_kg=9.21
+[2026-07-03 14:30:00] INFO ShipmentService - order_id=ORD-10371 customer_id=CUST-0143 carrier=USPS tracking_number=1Z332650248 status=DELIVERED origin=Manchester,UK dest=Denver,CO weight_kg=8.63
+[2026-07-03 15:05:00] INFO ShipmentService - order_id=ORD-10423 customer_id=CUST-0006 carrier=UPS tracking_number=1Z151277635 status=DELIVERED origin=Berlin,DE dest=Kathmandu,NP weight_kg=10.07
+[2026-07-03 15:12:00] INFO ShipmentService - order_id=ORD-10238 customer_id=CUST-0002 carrier=USPS tracking_number=1Z576727072 status=IN_TRANSIT origin=Kathmandu,NP dest=Vancouver,BC weight_kg=0.82
+[2026-07-03 15:37:00] INFO ShipmentService - order_id=ORD-10272 customer_id=CUST-0081 carrier=UPS tracking_number=1Z356130725 status=IN_TRANSIT origin=Toronto,ON dest=Manchester,UK weight_kg=2.56
+[2026-07-03 15:39:00] INFO ShipmentService - order_id=ORD-10250 customer_id=CUST-0088 carrier=FedEx tracking_number=1Z306321443 status=IN_TRANSIT origin=Manchester,UK dest=Bengaluru,IN weight_kg=8.22
+[2026-07-03 15:46:00] INFO ShipmentService - order_id=ORD-10457 customer_id=CUST-0032 carrier=UPS tracking_number=1Z147258075 status=IN_TRANSIT origin=Kathmandu,NP dest=Denver,CO weight_kg=5.11
+[2026-07-03 16:07:00] WARN ShipmentService - order_id=ORD-10356 customer_id=CUST-0016 carrier=DHL Express tracking_number=1Z303525112 status=DELAYED origin=Munich,DE dest=Melbourne,AU weight_kg=7.57 reason="weather delay"
+[2026-07-03 16:35:00] INFO ShipmentService - order_id=ORD-10049 customer_id=CUST-0021 carrier=FedEx tracking_number=1Z213693493 status=IN_TRANSIT origin=Toronto,ON dest=Toronto,ON weight_kg=4.41
+[2026-07-03 17:01:00] INFO ShipmentService - order_id=ORD-10191 customer_id=CUST-0123 carrier=DHL Express tracking_number=1Z328457837 status=IN_TRANSIT origin=Portland,OR dest=Bristol,UK weight_kg=5.61
+[2026-07-03 17:19:00] INFO ShipmentService - order_id=ORD-10436 customer_id=CUST-0039 carrier=DHL Express tracking_number=1Z334677931 status=DELIVERED origin=Portland,OR dest=Austin,TX weight_kg=5.05
+[2026-07-03 17:51:00] INFO ShipmentService - order_id=ORD-10259 customer_id=CUST-0053 carrier=FedEx tracking_number=1Z949608711 status=DELIVERED origin=Kathmandu,NP dest=Munich,DE weight_kg=11.89
+[2026-07-03 18:02:00] INFO ShipmentService - order_id=ORD-10339 customer_id=CUST-0061 carrier=DHL Express tracking_number=1Z448272764 status=DELIVERED origin=Austin,TX dest=Sydney,AU weight_kg=11.78
+[2026-07-03 18:11:00] INFO ShipmentService - order_id=ORD-10467 customer_id=CUST-0062 carrier=DHL Express tracking_number=1Z917886628 status=IN_TRANSIT origin=Denver,CO dest=Melbourne,AU weight_kg=10.63
+[2026-07-03 18:42:00] INFO ShipmentService - order_id=ORD-10080 customer_id=CUST-0126 carrier=FedEx tracking_number=1Z753407677 status=OUT_FOR_DELIVERY origin=Manchester,UK dest=Portland,OR weight_kg=10.96
+[2026-07-03 19:15:00] INFO ShipmentService - order_id=ORD-10146 customer_id=CUST-0048 carrier=UPS tracking_number=1Z856589767 status=IN_TRANSIT origin=Munich,DE dest=Sydney,AU weight_kg=11.86
+[2026-07-03 19:55:00] INFO ShipmentService - order_id=ORD-10505 customer_id=CUST-0145 carrier=FedEx tracking_number=1Z892328358 status=IN_TRANSIT origin=Vancouver,BC dest=Toronto,ON weight_kg=5.26
+[2026-07-03 20:01:00] INFO ShipmentService - order_id=ORD-10294 customer_id=CUST-0008 carrier=FedEx tracking_number=1Z635503487 status=IN_TRANSIT origin=Denver,CO dest=Manchester,UK weight_kg=3.7
+[2026-07-03 20:15:00] INFO ShipmentService - order_id=ORD-10010 customer_id=CUST-0027 carrier=FedEx tracking_number=1Z742178343 status=OUT_FOR_DELIVERY origin=Toronto,ON dest=Kathmandu,NP weight_kg=11.86
+[2026-07-03 20:37:00] INFO ShipmentService - order_id=ORD-10431 customer_id=CUST-0027 carrier=UPS tracking_number=1Z791062461 status=IN_TRANSIT origin=Vancouver,BC dest=Manchester,UK weight_kg=9.49
+[2026-07-03 21:04:00] INFO ShipmentService - order_id=ORD-10531 customer_id=CUST-0004 carrier=DHL Express tracking_number=1Z345897637 status=IN_TRANSIT origin=Mumbai,IN dest=Portland,OR weight_kg=10.19
+[2026-07-03 21:20:00] INFO ShipmentService - order_id=ORD-10216 customer_id=CUST-0118 carrier=UPS tracking_number=1Z814044769 status=DELIVERED origin=Munich,DE dest=Portland,OR weight_kg=11.86
+[2026-07-03 21:35:00] INFO ShipmentService - order_id=ORD-10202 customer_id=CUST-0145 carrier=USPS tracking_number=1Z297080451 status=IN_TRANSIT origin=Munich,DE dest=Manchester,UK weight_kg=5.42
+[2026-07-03 22:07:00] WARN ShipmentService - order_id=ORD-10239 customer_id=CUST-0064 carrier=FedEx tracking_number=1Z781146329 status=DELAYED origin=Toronto,ON dest=Portland,OR weight_kg=11.91 reason="customs hold"
+[2026-07-03 22:13:00] INFO ShipmentService - order_id=ORD-10249 customer_id=CUST-0012 carrier=UPS tracking_number=1Z992516620 status=IN_TRANSIT origin=Sydney,AU dest=Munich,DE weight_kg=9.58
+[2026-07-03 22:46:00] INFO ShipmentService - order_id=ORD-10015 customer_id=CUST-0070 carrier=FedEx tracking_number=1Z601517159 status=DELIVERED origin=Bristol,UK dest=Kathmandu,NP weight_kg=3.88
+[2026-07-03 23:02:00] INFO ShipmentService - order_id=ORD-10385 customer_id=CUST-0060 carrier=USPS tracking_number=1Z367328888 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Sydney,AU weight_kg=3.78
+[2026-07-03 23:15:00] WARN ShipmentService - order_id=ORD-10138 customer_id=CUST-0037 carrier=DHL Express tracking_number=1Z616653113 status=DELAYED origin=Bengaluru,IN dest=Mumbai,IN weight_kg=1.14 reason="weather delay"
+[2026-07-03 23:40:00] INFO ShipmentService - order_id=ORD-10106 customer_id=CUST-0095 carrier=UPS tracking_number=1Z553867727 status=DELIVERED origin=Berlin,DE dest=Berlin,DE weight_kg=6.16
+[2026-07-03 23:50:00] INFO ShipmentService - order_id=ORD-10051 customer_id=CUST-0020 carrier=USPS tracking_number=1Z509545868 status=IN_TRANSIT origin=Portland,OR dest=Mumbai,IN weight_kg=5.24
+[2026-07-04 00:10:00] INFO ShipmentService - order_id=ORD-10372 customer_id=CUST-0066 carrier=UPS tracking_number=1Z288655709 status=OUT_FOR_DELIVERY origin=Munich,DE dest=Kathmandu,NP weight_kg=3.24
+[2026-07-04 00:40:00] INFO ShipmentService - order_id=ORD-10227 customer_id=CUST-0109 carrier=DHL Express tracking_number=1Z750714773 status=IN_TRANSIT origin=Bristol,UK dest=Munich,DE weight_kg=5.87
+[2026-07-04 01:11:00] INFO ShipmentService - order_id=ORD-10554 customer_id=CUST-0036 carrier=UPS tracking_number=1Z104488833 status=OUT_FOR_DELIVERY origin=Denver,CO dest=Toronto,ON weight_kg=0.35
+[2026-07-04 01:35:00] INFO ShipmentService - order_id=ORD-10361 customer_id=CUST-0073 carrier=USPS tracking_number=1Z523751880 status=IN_TRANSIT origin=Bristol,UK dest=Bristol,UK weight_kg=11.65
+[2026-07-04 02:07:00] INFO ShipmentService - order_id=ORD-10266 customer_id=CUST-0035 carrier=DHL Express tracking_number=1Z176487306 status=IN_TRANSIT origin=Melbourne,AU dest=Sydney,AU weight_kg=5.02
+[2026-07-04 02:15:00] WARN ShipmentService - order_id=ORD-10352 customer_id=CUST-0025 carrier=USPS tracking_number=1Z308550942 status=DELAYED origin=Sydney,AU dest=Denver,CO weight_kg=9.2 reason="address correction needed"
+[2026-07-04 02:38:00] INFO ShipmentService - order_id=ORD-10280 customer_id=CUST-0012 carrier=USPS tracking_number=1Z495330845 status=DELIVERED origin=Melbourne,AU dest=Kathmandu,NP weight_kg=8.42
+[2026-07-04 03:06:00] INFO ShipmentService - order_id=ORD-10569 customer_id=CUST-0056 carrier=UPS tracking_number=1Z137052221 status=IN_TRANSIT origin=Toronto,ON dest=Berlin,DE weight_kg=11.07
+[2026-07-04 03:08:00] INFO ShipmentService - order_id=ORD-10261 customer_id=CUST-0096 carrier=UPS tracking_number=1Z589058010 status=IN_TRANSIT origin=Vancouver,BC dest=Sydney,AU weight_kg=11.34
+[2026-07-04 03:24:00] INFO ShipmentService - order_id=ORD-10118 customer_id=CUST-0024 carrier=UPS tracking_number=1Z927825086 status=DELIVERED origin=Portland,OR dest=Austin,TX weight_kg=1.29
+[2026-07-04 03:49:00] INFO ShipmentService - order_id=ORD-10521 customer_id=CUST-0090 carrier=USPS tracking_number=1Z186273351 status=IN_TRANSIT origin=Kathmandu,NP dest=Sydney,AU weight_kg=6.32
+[2026-07-04 04:17:00] INFO ShipmentService - order_id=ORD-10223 customer_id=CUST-0071 carrier=UPS tracking_number=1Z371518421 status=OUT_FOR_DELIVERY origin=Bengaluru,IN dest=Bristol,UK weight_kg=8.36
+[2026-07-04 04:52:00] INFO ShipmentService - order_id=ORD-10483 customer_id=CUST-0086 carrier=USPS tracking_number=1Z888055028 status=DELIVERED origin=Sydney,AU dest=Vancouver,BC weight_kg=5.06
+[2026-07-04 04:58:00] INFO ShipmentService - order_id=ORD-10199 customer_id=CUST-0026 carrier=FedEx tracking_number=1Z933965732 status=DELIVERED origin=Melbourne,AU dest=Sydney,AU weight_kg=9.61
+[2026-07-04 05:16:00] WARN ShipmentService - order_id=ORD-10004 customer_id=CUST-0118 carrier=UPS tracking_number=1Z850555192 status=DELAYED origin=Kathmandu,NP dest=Bristol,UK weight_kg=3.84 reason="weather delay"
+[2026-07-04 05:17:00] INFO ShipmentService - order_id=ORD-10123 customer_id=CUST-0070 carrier=FedEx tracking_number=1Z847664372 status=OUT_FOR_DELIVERY origin=Austin,TX dest=Mumbai,IN weight_kg=5.13
+[2026-07-04 05:36:00] INFO ShipmentService - order_id=ORD-10475 customer_id=CUST-0107 carrier=USPS tracking_number=1Z502278868 status=IN_TRANSIT origin=Denver,CO dest=Denver,CO weight_kg=2.4
+[2026-07-04 06:08:00] INFO ShipmentService - order_id=ORD-10091 customer_id=CUST-0031 carrier=UPS tracking_number=1Z583893332 status=IN_TRANSIT origin=Munich,DE dest=Austin,TX weight_kg=6.89
+[2026-07-04 06:21:00] INFO ShipmentService - order_id=ORD-10560 customer_id=CUST-0054 carrier=FedEx tracking_number=1Z968848930 status=IN_TRANSIT origin=Kathmandu,NP dest=Denver,CO weight_kg=9.16
+[2026-07-04 06:48:00] INFO ShipmentService - order_id=ORD-10164 customer_id=CUST-0071 carrier=USPS tracking_number=1Z217247719 status=IN_TRANSIT origin=Melbourne,AU dest=Sydney,AU weight_kg=10.45
+[2026-07-04 07:07:00] INFO ShipmentService - order_id=ORD-10525 customer_id=CUST-0008 carrier=FedEx tracking_number=1Z397171155 status=IN_TRANSIT origin=Bristol,UK dest=Austin,TX weight_kg=0.96
+[2026-07-04 07:23:00] INFO ShipmentService - order_id=ORD-10127 customer_id=CUST-0063 carrier=USPS tracking_number=1Z916616735 status=IN_TRANSIT origin=Berlin,DE dest=Melbourne,AU weight_kg=1.39
+[2026-07-04 07:24:00] INFO ShipmentService - order_id=ORD-10195 customer_id=CUST-0091 carrier=FedEx tracking_number=1Z660852445 status=IN_TRANSIT origin=Austin,TX dest=Toronto,ON weight_kg=9.54
+[2026-07-04 07:58:00] INFO ShipmentService - order_id=ORD-10473 customer_id=CUST-0017 carrier=DHL Express tracking_number=1Z912727686 status=OUT_FOR_DELIVERY origin=Berlin,DE dest=Berlin,DE weight_kg=4.18
