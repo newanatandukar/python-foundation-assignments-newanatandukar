@@ -1,0 +1,25 @@
+2026-08-30 21:08:16,025 | INFO | Connected to banking_db successfully.
+2026-08-30 21:08:16,026 | INFO | Customer table check/create step complete.
+2026-08-30 21:08:16,026 | INFO | Customer data inserted successfully (10 rows staged).
+2026-08-30 21:08:16,026 | INFO | Customer 3 email updated successfully.
+2026-08-30 21:08:16,026 | INFO | Orders table check/create step complete.
+2026-08-30 21:08:16,026 | INFO | Order data inserted successfully (14 rows staged).
+2026-08-30 21:08:16,030 | INFO | Query executed successfully — 7 customers returned.
+2026-08-30 21:08:16,030 | INFO | Customer ID: 2 | Name: Green Leaf Restaurant | Total Spent: 2500.00
+2026-08-30 21:08:16,030 | INFO | Customer ID: 5 | Name: Sita Gurung | Total Spent: 2400.00
+2026-08-30 21:08:16,030 | INFO | Customer ID: 10 | Name: Bikash Basnet | Total Spent: 2200.00
+2026-08-30 21:08:16,030 | INFO | Customer ID: 7 | Name: Maya Karki | Total Spent: 1800.00
+2026-08-30 21:08:16,030 | INFO | Customer ID: 1 | Name: Ravi Sharma | Total Spent: 1300.00
+2026-08-30 21:08:16,030 | INFO | Customer ID: 3 | Name: HR Department | Total Spent: 1200.00
+2026-08-30 21:08:16,031 | INFO | Customer ID: 8 | Name: Suresh Rana | Total Spent: 1100.00
+2026-08-30 21:08:16,031 | INFO | Database connection closed.
+2026-08-30 21:16:46,849 | INFO | Connected to banking_db successfully.
+2026-08-30 21:16:46,850 | INFO | Customer table check/create step complete.
+2026-08-30 21:16:46,850 | INFO | Customer data inserted successfully (10 rows staged).
+2026-08-30 21:16:46,850 | INFO | Customer 3 email updated successfully.
+2026-08-30 21:16:46,850 | INFO | Orders table check/create step complete.
+2026-08-30 21:16:46,850 | INFO | Order data inserted successfully (14 rows staged).
+2026-08-30 21:16:46,853 | ERROR | Query failed: syntax error at or near "o"
+LINE 9:     o.Status <> 'Cancelled'
+            ^
+2026-08-30 21:16:46,853 | INFO | Database connection closed.

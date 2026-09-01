@@ -38,3 +38,5 @@ Both `.py` files and notebooks run on the same Python installation (managed via 
 - [x] Day 4: File Handling, Error Handling & Logging
 - [x] Day 5-6: Advanced Python & OOP
 - [x] Day 7: Python for Data Engineering
+- [x] Assignment 5: Cedar Grove Public Library: Checkouts
+- [x] Assignment 6: SQL Operators
