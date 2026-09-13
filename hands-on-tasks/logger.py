@@ -1,5 +1,14 @@
+import os
 import logging
 import psycopg
+
+from dotenv import load_dotenv
+load_dotenv()
+
+host = os.getenv("HOST")
+port = os.getenv('POSTGRESQL_PORT')
+username = os.getenv('POSTGRESQL_USERNAME')
+password = os.getenv('POSTGRESQL_PASSWORD')
 
 logging.basicConfig(
     filename="etl.log",
@@ -11,11 +20,11 @@ print("Logging configured -> etl.log")
 
 try:
     conn = psycopg.connect(
-        host="localhost",
-        port=5432,
+        host=host,
+        port=port,
+        user=username,
+        password=password,
         dbname="banking_db",
-        user="newanatandukar",
-        password=""
     )
     cursor = conn.cursor()
     logger.info("Connected to banking_db successfully.")
@@ -79,7 +88,7 @@ try:
     FROM Customer AS c
     INNER JOIN Orders AS o
         ON c.CustomerID = o.CustomerID
-    o.Status <> 'Cancelled'
+    WHERE o.Status <> 'Cancelled'
     GROUP BY
         c.CustomerID,
         c.Name
