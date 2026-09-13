@@ -30,6 +30,16 @@ Then run the cells from the browser UI. Notebooks can also be opened directly in
 
 Both `.py` files and notebooks run on the same Python installation (managed via `pyenv`), so output should match regardless of which one you run.
 
+## Database (Docker)
+
+PostgreSQL runs in Docker instead of a local install. Start it with:
+
+```bash
+docker compose up -d
+```
+
+This starts a `postgres:16` container (`de-postgres`) on `localhost:5432` with data persisted in the `postgres_data` named volume, matching the credentials in `.env`. Stop it with `docker compose down` (data persists in the volume; add `-v` to wipe it).
+
 ## Assignment Progress
 
 - [x] Day 1: Python Foundations
