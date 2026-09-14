@@ -50,3 +50,4 @@ This starts a `postgres:16` container (`de-postgres`) on `localhost:5432` with d
 - [x] Day 7: Python for Data Engineering
 - [x] Assignment 5: Cedar Grove Public Library: Checkouts
 - [x] Assignment 6: SQL Operators
+- [x] Assignment 7: Banking SQL Practice
